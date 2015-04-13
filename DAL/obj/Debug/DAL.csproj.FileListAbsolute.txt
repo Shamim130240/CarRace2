@@ -1,0 +1,21 @@
+E:\2-1\APL\projects\Car\DAL\bin\Debug\DAL.dll
+E:\2-1\APL\projects\Car\DAL\bin\Debug\DAL.pdb
+E:\2-1\APL\projects\Car\DAL\bin\Debug\ENTITY.dll
+E:\2-1\APL\projects\Car\DAL\bin\Debug\ENTITY.pdb
+E:\2-1\APL\projects\Car\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\2-1\APL\projects\Car\DAL\obj\Debug\DAL.dll
+E:\2-1\APL\projects\Car\DAL\obj\Debug\DAL.pdb
+H:\Car\DAL\bin\Debug\DAL.dll
+H:\Car\DAL\bin\Debug\DAL.pdb
+H:\Car\DAL\bin\Debug\ENTITY.dll
+H:\Car\DAL\bin\Debug\ENTITY.pdb
+H:\Car\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\Car\DAL\obj\Debug\DAL.dll
+H:\Car\DAL\obj\Debug\DAL.pdb
+G:\C# Program Space\Car\DAL\bin\Debug\DAL.dll
+G:\C# Program Space\Car\DAL\bin\Debug\DAL.pdb
+G:\C# Program Space\Car\DAL\bin\Debug\ENTITY.dll
+G:\C# Program Space\Car\DAL\bin\Debug\ENTITY.pdb
+G:\C# Program Space\Car\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\C# Program Space\Car\DAL\obj\Debug\DAL.dll
+G:\C# Program Space\Car\DAL\obj\Debug\DAL.pdb

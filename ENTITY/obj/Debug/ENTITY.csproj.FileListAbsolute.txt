@@ -1,0 +1,15 @@
+E:\2-1\APL\projects\Car\ENTITY\bin\Debug\ENTITY.dll
+E:\2-1\APL\projects\Car\ENTITY\bin\Debug\ENTITY.pdb
+E:\2-1\APL\projects\Car\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\2-1\APL\projects\Car\ENTITY\obj\Debug\ENTITY.dll
+E:\2-1\APL\projects\Car\ENTITY\obj\Debug\ENTITY.pdb
+H:\Car\ENTITY\bin\Debug\ENTITY.dll
+H:\Car\ENTITY\bin\Debug\ENTITY.pdb
+H:\Car\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+H:\Car\ENTITY\obj\Debug\ENTITY.dll
+H:\Car\ENTITY\obj\Debug\ENTITY.pdb
+G:\C# Program Space\Car\ENTITY\bin\Debug\ENTITY.dll
+G:\C# Program Space\Car\ENTITY\bin\Debug\ENTITY.pdb
+G:\C# Program Space\Car\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+G:\C# Program Space\Car\ENTITY\obj\Debug\ENTITY.dll
+G:\C# Program Space\Car\ENTITY\obj\Debug\ENTITY.pdb

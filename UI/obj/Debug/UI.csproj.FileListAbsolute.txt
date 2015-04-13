@@ -1,0 +1,48 @@
+E:\2-1\APL\projects\Car\UI\bin\Debug\UI.exe.config
+E:\2-1\APL\projects\Car\UI\bin\Debug\UI.exe
+E:\2-1\APL\projects\Car\UI\bin\Debug\UI.pdb
+E:\2-1\APL\projects\Car\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\2-1\APL\projects\Car\UI\obj\Debug\UI.Properties.Resources.resources
+E:\2-1\APL\projects\Car\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\2-1\APL\projects\Car\UI\obj\Debug\UI.exe
+E:\2-1\APL\projects\Car\UI\obj\Debug\UI.pdb
+E:\2-1\APL\projects\Car\UI\obj\Debug\UI.Drawingcar.resources
+E:\2-1\APL\projects\Car\UI\bin\Debug\BO.dll
+E:\2-1\APL\projects\Car\UI\bin\Debug\ENTITY.dll
+E:\2-1\APL\projects\Car\UI\bin\Debug\DAL.dll
+E:\2-1\APL\projects\Car\UI\bin\Debug\BO.pdb
+E:\2-1\APL\projects\Car\UI\bin\Debug\ENTITY.pdb
+E:\2-1\APL\projects\Car\UI\bin\Debug\DAL.pdb
+E:\2-1\APL\projects\Car\UI\obj\Debug\UI.Start_Car.resources
+H:\Car\UI\bin\Debug\UI.exe.config
+H:\Car\UI\obj\Debug\UI.exe
+H:\Car\UI\obj\Debug\UI.pdb
+H:\Car\UI\bin\Debug\UI.exe
+H:\Car\UI\bin\Debug\UI.pdb
+H:\Car\UI\bin\Debug\BO.dll
+H:\Car\UI\bin\Debug\ENTITY.dll
+H:\Car\UI\bin\Debug\DAL.dll
+H:\Car\UI\bin\Debug\BO.pdb
+H:\Car\UI\bin\Debug\ENTITY.pdb
+H:\Car\UI\bin\Debug\DAL.pdb
+H:\Car\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+H:\Car\UI\obj\Debug\UI.Drawingcar.resources
+H:\Car\UI\obj\Debug\UI.Properties.Resources.resources
+H:\Car\UI\obj\Debug\UI.Start_Car.resources
+H:\Car\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+G:\C# Program Space\Car\UI\bin\Debug\UI.exe.config
+G:\C# Program Space\Car\UI\obj\Debug\UI.exe
+G:\C# Program Space\Car\UI\obj\Debug\UI.pdb
+G:\C# Program Space\Car\UI\bin\Debug\UI.exe
+G:\C# Program Space\Car\UI\bin\Debug\UI.pdb
+G:\C# Program Space\Car\UI\bin\Debug\BO.dll
+G:\C# Program Space\Car\UI\bin\Debug\ENTITY.dll
+G:\C# Program Space\Car\UI\bin\Debug\DAL.dll
+G:\C# Program Space\Car\UI\bin\Debug\BO.pdb
+G:\C# Program Space\Car\UI\bin\Debug\ENTITY.pdb
+G:\C# Program Space\Car\UI\bin\Debug\DAL.pdb
+G:\C# Program Space\Car\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+G:\C# Program Space\Car\UI\obj\Debug\UI.Drawingcar.resources
+G:\C# Program Space\Car\UI\obj\Debug\UI.Properties.Resources.resources
+G:\C# Program Space\Car\UI\obj\Debug\UI.Start_Car.resources
+G:\C# Program Space\Car\UI\obj\Debug\UI.csproj.GenerateResource.Cache
